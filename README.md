@@ -31,3 +31,4 @@ Este projeto é construído usando Javascript. O código é organizado nos segui
 * `main.js`: Contém o código da aplicação principal
 * `pokemon-models.js`: Contém os modelos de dados para os dados de Pokémon
 * `poke-api.js`: Contém a lógica da API
+* `stats.js`: Contém os status de batalha do pokemon selecionado
